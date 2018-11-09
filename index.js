@@ -1,24 +1,23 @@
-var mult = document.getElementById("multiply");
-var div = document.getElementById("divide");
+var calc = document.getElementById("calc");
 
-function multiply(){
-    let numOne = document.getElementById("numberOne").value;
-    let numTwo = document.getElementById("numberTwo").value;
 
-    document.getElementById("result").innerHTML = numOne * numTwo;
-}
+calc.addEventListener("click", function(){
+    var sideA = Number(document.getElementById("sideA").value);
+    var sideB = Number(document.getElementById("sideB").value);
+    var sideC = Number(document.getElementById("sideC").value);
+    var perim = (sideA + sideB + sideC);
+    var p = perim/2;
+    var a = p-sideA;
+    var b = p-sideB;
+    var c = p-sideC;
+    var area = Math.sqrt(p*a*b*c);
 
-function divide(){
-    let numOne = document.getElementById("numberOne").value;
-    let numTwo = document.getElementById("numberTwo").value;
+    console.log(area);
 
-    document.getElementById("result").innerHTML = numOne / numTwo;
-}
-
-mult.addEventListener("click", function(){
-    multiply();
 });
 
-div.addEventListener("click", function(){
-    divide();
-});
+
+;
+
+
+

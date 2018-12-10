@@ -1,18 +1,20 @@
 # sampleProjects
-A place to save samples of projects I've worked on
+
 Hello, my name is Mitch Brudy and I am currently the Communications Director for Freiwald Law in Philadelphia PA. 
 
 To see some of the websites I have worked on please visit one of the following: 
 
 www.Freiwaldlaw.com
+  Custom coded by another firm, maintained by me. Built on the Wordpress platform
 
-www.FairSharePA.com
+www.Demo.FairSharePa.org (still in development)
+  Custom coded website, no content management system in place
 
-www.law-podcast.com
+www.Law-Podcast.com / www.GoodLawBadLawPodcast.com
+  Customized SquareSpace template
 
-www.ynpnphilly.org
+www.RobertWittmanInc.com
+  Customized SquareSpace template
 
-www.robertwittmaninc.com
-
-www.wetrain.fitness
-
+www.Wetrain.fitness
+  Custom coded by an agency, project lead by me and the site was maintained by me. Built of the Wordpress platform.

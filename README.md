@@ -18,3 +18,5 @@ www.RobertWittmanInc.com
 
 www.Wetrain.fitness
   Custom coded by an agency, project lead by me and the site was maintained by me. Built of the Wordpress platform.
+
+In addition, in this repo you will find small projects I have built using Javascript, jQuery, HTML5, and CSS3
